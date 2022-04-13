@@ -1,0 +1,37 @@
+_repo: Windchen_67690
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Olfers, Sibylle
+    aliases:
+    - Olfers, Sibylle von
+    - Von Olfers, Sibylle
+    - Von Olfers, Maria Regina Angela Hedwig Sibylla
+    birthdate: 1881
+    deathdate: 1916
+    gutenberg_agent_id: '49370'
+    url: http://www.gutenberg.org/2009/agents/49370
+    wikipedia: https://de.wikipedia.org/wiki/Sibylle_von_Olfers
+description: ''
+gutenberg_issued: '2022-03-23'
+identifiers:
+  gutenberg: '67690'
+language: de
+pgterms:marc904: http://goobiweb.bbf.dipf.de/viewer/!image/486748243/6/-/
+pgterms:marc905: 20180622082738olfers
+pgterms:marc906: '1910'
+pgterms:marc907: de
+production_note: Matthias Grammel and the Online Distributed Proofreading Team at
+  https://www.pgdp.net
+publication_note: Germany :Verlag von J. F. Schreiber,1910.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Winds -- Juvenile fiction'
+- !lcsh 'Children''s stories, German'
+- !lcsh 'Imagination in children -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: Windchen
+url: http://www.gutenberg.org/ebooks/67690
