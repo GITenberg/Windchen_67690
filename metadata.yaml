@@ -1,5 +1,8 @@
 _repo: Windchen_67690
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67690-h/images/cover.jpg
 creator:
   author:
     agent_name: Olfers, Sibylle
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/49370
     wikipedia: https://de.wikipedia.org/wiki/Sibylle_von_Olfers
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67690#Windchen
 gutenberg_issued: '2022-03-23'
 identifiers:
   gutenberg: '67690'
